@@ -14,7 +14,7 @@ h2 {
 	font-weight: 400;
 	font-size: 38px;
 	color: #333;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	position: relative;
 	margin-top: 10px;
 	margin-bottom: 15px;
@@ -37,12 +37,12 @@ h3 {
 }
 h4 {
 	font-size: 24px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 400;
 	color: #333;
 }
 h5 {
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 	line-height: 20px;
 }
@@ -262,7 +262,7 @@ header .intro-text {
 }
 #restaurant-menu h3 {
 	padding: 10px 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 #restaurant-menu .menu-section hr {
 	margin: 0 auto;
@@ -347,7 +347,7 @@ header .intro-text {
 }
 #contact h3 {
 	position: relative;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-size: 18px;
 	font-weight: 400;
 	color: #aaa;
@@ -414,7 +414,7 @@ color: #999;
 #contact .contact-item span {
 	font-weight: 400;
 	color: #aaa;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	margin-bottom: 6px;
 	display: inline-block;
 }
